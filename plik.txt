@@ -1,2 +1,4 @@
 Zmiana w pliku. Inna wersja pliku. sasa
 
+Dodanie nowej, eksperymentalnej opcji
+
